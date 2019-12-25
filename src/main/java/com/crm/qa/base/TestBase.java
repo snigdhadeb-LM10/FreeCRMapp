@@ -39,9 +39,9 @@ public class TestBase {
 	
 	public static void initialization(){
 		String browserName = prop.getProperty("browser");
-		
+		String dir=TestUtil.currentdir;
 		if(browserName.equals("chrome")){
-			System.setProperty("webdriver.chrome.driver", "/Users/naveenkhunteta/Downloads/chromedriver");	
+			System.setProperty("webdriver.chrome.driver", dir+"\\src\\main\\resources\\chromedriver.exe");	
 			driver = new ChromeDriver(); 
 		}
 		else if(browserName.equals("FF")){

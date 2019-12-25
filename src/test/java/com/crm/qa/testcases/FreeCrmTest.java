@@ -13,6 +13,8 @@ import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
+import com.crm.qa.util.TestUtil;
+
 public class FreeCrmTest {
 
 	static WebDriver driver;
@@ -20,7 +22,8 @@ public class FreeCrmTest {
 
 	@BeforeMethod
 	public void setUp() throws Exception {
-		System.setProperty("webdriver.chrome.driver", "/Users/naveenkhunteta/Downloads/chromedriver");
+		String dir=TestUtil.currentdir;
+		System.setProperty("webdriver.chrome.driver", dir+"\\src\\main\\resources\\chromedriver.exe");
 		driver = new ChromeDriver();
 		js = (JavascriptExecutor) driver;
 		driver.get("https://www.freecrm.com/index.html");
