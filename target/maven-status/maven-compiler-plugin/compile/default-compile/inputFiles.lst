@@ -1,10 +1,10 @@
-/Users/NaveenKhunteta/Documents/MyPOMFramework/PageObjectModel/src/main/java/com/crm/qa/util/WebEventListener.java
-/Users/NaveenKhunteta/Documents/MyPOMFramework/PageObjectModel/src/main/java/com/crm/qa/pages/HomePage.java
-/Users/NaveenKhunteta/Documents/MyPOMFramework/PageObjectModel/src/main/java/com/crm/qa/pages/ContactsPage.java
-/Users/NaveenKhunteta/Documents/MyPOMFramework/PageObjectModel/src/main/java/com/crm/qa/base/TestBase.java
-/Users/NaveenKhunteta/Documents/MyPOMFramework/PageObjectModel/src/main/java/com/crm/qa/pages/LoginPage.java
-/Users/NaveenKhunteta/Documents/MyPOMFramework/PageObjectModel/src/main/java/com/crm/qa/util/TestUtil.java
-/Users/NaveenKhunteta/Documents/MyPOMFramework/PageObjectModel/src/main/java/com/crm/qa/pages/TasksPage.java
-/Users/NaveenKhunteta/Documents/MyPOMFramework/PageObjectModel/src/main/java/com/crm/qa/pages/SignUpPage.java
-/Users/NaveenKhunteta/Documents/MyPOMFramework/PageObjectModel/src/main/java/com/crm/qa/pages/DealsPage.java
-/Users/NaveenKhunteta/Documents/MyPOMFramework/PageObjectModel/src/main/java/com/qa/ExtentReportListener/ExtentReporterNG.java
+E:\Selenium Practice\Naveen Automation\PageObjectModel\src\main\java\com\crm\qa\pages\TasksPage.java
+E:\Selenium Practice\Naveen Automation\PageObjectModel\src\main\java\com\qa\ExtentReportListener\ExtentReporterNG.java
+E:\Selenium Practice\Naveen Automation\PageObjectModel\src\main\java\com\crm\qa\util\WebEventListener.java
+E:\Selenium Practice\Naveen Automation\PageObjectModel\src\main\java\com\crm\qa\pages\LoginPage.java
+E:\Selenium Practice\Naveen Automation\PageObjectModel\src\main\java\com\crm\qa\pages\SignUpPage.java
+E:\Selenium Practice\Naveen Automation\PageObjectModel\src\main\java\com\crm\qa\base\TestBase.java
+E:\Selenium Practice\Naveen Automation\PageObjectModel\src\main\java\com\crm\qa\pages\HomePage.java
+E:\Selenium Practice\Naveen Automation\PageObjectModel\src\main\java\com\crm\qa\util\TestUtil.java
+E:\Selenium Practice\Naveen Automation\PageObjectModel\src\main\java\com\crm\qa\pages\ContactsPage.java
+E:\Selenium Practice\Naveen Automation\PageObjectModel\src\main\java\com\crm\qa\pages\DealsPage.java
